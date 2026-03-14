@@ -26,7 +26,7 @@ public class es5 {
         p1.eta = 17;
 
         Persona p2 = new Persona();
-        p2.nome = "Estelli"; 
+        p2.nome = "Nicola"; 
         p2.eta = 17;
 
         p1.presentati();
